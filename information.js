@@ -1,4 +1,4 @@
-const name = "Rémi";
+const name = "Pottok";
 const campus = "Biarritz";
 
 //function displaygrapes(){
